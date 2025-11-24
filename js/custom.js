@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
     document.querySelectorAll('.navbar-brand.js-scroll-trigger').forEach(function(el) {
-        el.innerHTML = '<strong>Unblocked 76</strong>';
+        el.innerHTML = '<strong>Unblocked Games 67</strong>';
         el.style.visibility = 'visible';
     });
 });
@@ -48,7 +48,7 @@ function loadGoogleAnalytics(trackingId) {
 }
 
 // Usage
-loadGoogleAnalytics('G-27J22138W0');
+loadGoogleAnalytics('G-4Y8Q9MVN2B');
 
 (function() {
     // Remove all Rodesquad ad scripts, iframes, and containers regularly
